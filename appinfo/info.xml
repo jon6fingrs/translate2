@@ -21,9 +21,9 @@
 	</dependencies>
 	<external-app>
 		<docker-install>
-			<registry>ghcr.io</registry>
-			<image>nextcloud/translate2</image>
-			<image-tag>v1.0.0</image-tag>
+			<registry>docker.io</registry>
+			<image>thehelpfulidiot/translate2</image>
+			<image-tag>latest</image-tag>
 		</docker-install>
 		<scopes>
       <value>AI_PROVIDERS</value>
